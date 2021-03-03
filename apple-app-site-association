@@ -3,10 +3,8 @@
         "apps": [],
         "details": [
             {
-                "appID": "DGQDJX86DJ.com.andreiblaj.spacexeverything",
+                "appID": "DGQDJX86DJ.com.andreiblaj.CinemaTime",
                 "paths": [
-                    "/launch/*",
-                    "/spacex/*"
                 ]
             }
         ]
