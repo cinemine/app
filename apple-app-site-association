@@ -1,0 +1,14 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "DGQDJX86DJ.com.andreiblaj.spacexeverything",
+                "paths": [
+                    "/launch/*",
+                    "/spacex/*"
+                ]
+            }
+        ]
+    }
+}

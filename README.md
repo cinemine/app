@@ -1,2 +1,1 @@
-# app
-CineMine App
+# tminus-app.github.io
